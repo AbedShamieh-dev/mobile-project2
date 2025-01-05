@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'home.dart'; // Import Home page where news can be filtered
-import 'news.dart'; // Import the News page for adding news
+import 'home.dart'; 
+import 'news.dart'; 
 import 'login.dart';
 void main() => runApp(const MyApp());
 
